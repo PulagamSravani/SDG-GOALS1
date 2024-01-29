@@ -1,0 +1,1 @@
+This project is a website dedicated to raising awareness and providing information about Sustainable Development Goal 6 (SDG 6) - Clean Water and Sanitation. The goal is to educate users about the importance of water conservation, access to clean water, and sustainable water management practices.
